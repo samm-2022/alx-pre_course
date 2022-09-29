@@ -1,2 +1,2 @@
-bin
-ALX
+#!/bin/bash
+echo "ALX"
